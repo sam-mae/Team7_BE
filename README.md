@@ -141,4 +141,5 @@
 </br>
 
 # ERD
-![ERD_v2-2](https://github.com/Step3-kakao-tech-campus/Team7_BE/assets/131665728/aa678bea-6094-4aaf-aa0a-44938f42e745)
+![TIL-y_ERD](https://github.com/Step3-kakao-tech-campus/Team7_BE/assets/95485737/e3db0e8f-ec7b-4048-8c6e-a628722776ea)
+
